@@ -1,6 +1,6 @@
 {
   "name": "@medusajs/modules-sdk",
-  "version": "2.8.5",
+  "version": "2.8.6",
   "description": "SDK for medusa modules",
   "main": "dist/index.js",
   "export": {
@@ -45,9 +45,9 @@
     "typescript": "^5.6.2"
   },
   "dependencies": {
-    "@medusajs/orchestration": "2.8.5",
-    "@medusajs/types": "2.8.5",
-    "@medusajs/utils": "2.8.5"
+    "@medusajs/orchestration": "2.8.6",
+    "@medusajs/types": "2.8.6",
+    "@medusajs/utils": "2.8.6"
   },
   "peerDependencies": {
     "@mikro-orm/core": "6.4.3",

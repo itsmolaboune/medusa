@@ -1,5 +1,12 @@
 # @medusajs/sales-channel
 
+## 2.8.6
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @medusajs/framework@2.8.6
+
 ## 2.8.5
 
 ### Patch Changes

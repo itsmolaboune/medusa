@@ -1,5 +1,14 @@
 # @medusajs/core-flows
 
+## 2.8.6
+
+### Patch Changes
+
+- [#12825](https://github.com/medusajs/medusa/pull/12825) [`9a62f359f1c954bcc09c57e4660f90d4b010e51c`](https://github.com/medusajs/medusa/commit/9a62f359f1c954bcc09c57e4660f90d4b010e51c) Thanks [@riqwan](https://github.com/riqwan)! - fix(core-flows,workflows-sdk): compensate account holders only when its created
+
+- Updated dependencies []:
+  - @medusajs/framework@2.8.6
+
 ## 2.8.5
 
 ### Patch Changes

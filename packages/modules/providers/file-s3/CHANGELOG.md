@@ -1,5 +1,14 @@
 # @medusajs/file-s3
 
+## 2.8.6
+
+### Patch Changes
+
+- [#12831](https://github.com/medusajs/medusa/pull/12831) [`10dff3e26663bf23e3154f7d7c79b53280d57e8e`](https://github.com/medusajs/medusa/commit/10dff3e26663bf23e3154f7d7c79b53280d57e8e) Thanks [@thetutlage](https://github.com/thetutlage)! - fix: do not apply prefix when getting file contents as buffer or stream
+
+- Updated dependencies []:
+  - @medusajs/framework@2.8.6
+
 ## 2.8.5
 
 ### Patch Changes
