@@ -1,5 +1,21 @@
 # @medusajs/dashboard
 
+## 2.9.0
+
+### Patch Changes
+
+- [#13150](https://github.com/medusajs/medusa/pull/13150) [`b7083b9f0f21d0b6d9f3f3afd65b7ae0f8d378dc`](https://github.com/medusajs/medusa/commit/b7083b9f0f21d0b6d9f3f3afd65b7ae0f8d378dc) Thanks [@willbouch](https://github.com/willbouch)! - fix(dashboard): variants disappearing when removing an option on product creation
+
+- [#11982](https://github.com/medusajs/medusa/pull/11982) [`4da237f615b8cf1dac7935f2faeb97f2c145c62f`](https://github.com/medusajs/medusa/commit/4da237f615b8cf1dac7935f2faeb97f2c145c62f) Thanks [@SteelRazor47](https://github.com/SteelRazor47)! - fix(dashboard): correct overflow in a few settings edit forms
+
+- [#13094](https://github.com/medusajs/medusa/pull/13094) [`0452eba20b44be5a25eb371541172f39f29194b4`](https://github.com/medusajs/medusa/commit/0452eba20b44be5a25eb371541172f39f29194b4) Thanks [@fPolic](https://github.com/fPolic)! - chore(dashboard): add missing US state
+
+- Updated dependencies []:
+  - @medusajs/js-sdk@2.9.0
+  - @medusajs/admin-shared@2.9.0
+  - @medusajs/icons@2.9.0
+  - @medusajs/ui@4.0.19
+
 ## 2.8.8
 
 ### Patch Changes

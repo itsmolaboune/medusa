@@ -1,5 +1,24 @@
 # @medusajs/core-flows
 
+## 2.9.0
+
+### Minor Changes
+
+- [#13140](https://github.com/medusajs/medusa/pull/13140) [`acf6bbc2ec1d90e3b0100c86f56e96b38fa7c67a`](https://github.com/medusajs/medusa/commit/acf6bbc2ec1d90e3b0100c86f56e96b38fa7c67a) Thanks [@willbouch](https://github.com/willbouch)! - chore(code-flows): throw error on invalid promo code
+
+### Patch Changes
+
+- [#13037](https://github.com/medusajs/medusa/pull/13037) [`9fb5baa912674b6d35492b147e0f22d8f8330a24`](https://github.com/medusajs/medusa/commit/9fb5baa912674b6d35492b147e0f22d8f8330a24) Thanks [@fPolic](https://github.com/fPolic)! - fix(core-flows): guest email change to another guest email
+
+- [#13103](https://github.com/medusajs/medusa/pull/13103) [`f6736d96616aaff51399b2733905f9e340efc8be`](https://github.com/medusajs/medusa/commit/f6736d96616aaff51399b2733905f9e340efc8be) Thanks [@carlos-r-l-rodrigues](https://github.com/carlos-r-l-rodrigues)! - fix(core-flows): refresh payment collection using raw total
+
+- [#12960](https://github.com/medusajs/medusa/pull/12960) [`1bdf602f1c1da181e2839858d2f7e8aea503573a`](https://github.com/medusajs/medusa/commit/1bdf602f1c1da181e2839858d2f7e8aea503573a) Thanks [@scherddel](https://github.com/scherddel)! - This fixes the discount\_ calculation logic and promotion tax inclusiveness calculation
+
+- [#13056](https://github.com/medusajs/medusa/pull/13056) [`6e66e36d0814a524440c05a99c849c3d62e48ed3`](https://github.com/medusajs/medusa/commit/6e66e36d0814a524440c05a99c849c3d62e48ed3) Thanks [@jbrigbyjs](https://github.com/jbrigbyjs)! - fix(core-flows): createCustomerGroupsStep rollback delete created customer groups.
+
+- Updated dependencies []:
+  - @medusajs/framework@2.9.0
+
 ## 2.8.8
 
 ### Patch Changes

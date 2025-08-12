@@ -1,5 +1,14 @@
 # @medusajs/workflow-engine-inmemory
 
+## 2.9.0
+
+### Patch Changes
+
+- [#13151](https://github.com/medusajs/medusa/pull/13151) [`b1cba9fdeba901c9d4c7bddd414ed2fd085fa7b0`](https://github.com/medusajs/medusa/commit/b1cba9fdeba901c9d4c7bddd414ed2fd085fa7b0) Thanks [@carlos-r-l-rodrigues](https://github.com/carlos-r-l-rodrigues)! - fix(workflow-engine-inmemory): fix cron job schedule
+
+- Updated dependencies []:
+  - @medusajs/framework@2.9.0
+
 ## 2.8.8
 
 ### Patch Changes

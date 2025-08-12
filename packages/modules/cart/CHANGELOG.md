@@ -1,5 +1,14 @@
 # @medusajs/cart
 
+## 2.9.0
+
+### Patch Changes
+
+- [#12960](https://github.com/medusajs/medusa/pull/12960) [`1bdf602f1c1da181e2839858d2f7e8aea503573a`](https://github.com/medusajs/medusa/commit/1bdf602f1c1da181e2839858d2f7e8aea503573a) Thanks [@scherddel](https://github.com/scherddel)! - This fixes the discount\_ calculation logic and promotion tax inclusiveness calculation
+
+- Updated dependencies []:
+  - @medusajs/framework@2.9.0
+
 ## 2.8.8
 
 ### Patch Changes

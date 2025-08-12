@@ -1,5 +1,16 @@
 # @medusajs/pricing
 
+## 2.9.0
+
+### Minor Changes
+
+- [#13079](https://github.com/medusajs/medusa/pull/13079) [`02dd83f59a0f02badd99f6e05c083aabbe6daa96`](https://github.com/medusajs/medusa/commit/02dd83f59a0f02badd99f6e05c083aabbe6daa96) Thanks [@olivermrbl](https://github.com/olivermrbl)! - feat(pricing): Calculate prices with multiple rule values
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @medusajs/framework@2.9.0
+
 ## 2.8.8
 
 ### Patch Changes

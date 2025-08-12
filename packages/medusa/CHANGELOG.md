@@ -1,5 +1,60 @@
 # Change Log
 
+## 2.9.0
+
+### Patch Changes
+
+- [#12960](https://github.com/medusajs/medusa/pull/12960) [`1bdf602f1c1da181e2839858d2f7e8aea503573a`](https://github.com/medusajs/medusa/commit/1bdf602f1c1da181e2839858d2f7e8aea503573a) Thanks [@scherddel](https://github.com/scherddel)! - This fixes the discount\_ calculation logic and promotion tax inclusiveness calculation
+
+- Updated dependencies [[`9fb5baa912674b6d35492b147e0f22d8f8330a24`](https://github.com/medusajs/medusa/commit/9fb5baa912674b6d35492b147e0f22d8f8330a24), [`02dd83f59a0f02badd99f6e05c083aabbe6daa96`](https://github.com/medusajs/medusa/commit/02dd83f59a0f02badd99f6e05c083aabbe6daa96), [`9725bff25d321011da7ba5096fe0946c5a8f0059`](https://github.com/medusajs/medusa/commit/9725bff25d321011da7ba5096fe0946c5a8f0059), [`93d7a93b2806d7e7660a6702c9e9b60d01dfe936`](https://github.com/medusajs/medusa/commit/93d7a93b2806d7e7660a6702c9e9b60d01dfe936), [`f6736d96616aaff51399b2733905f9e340efc8be`](https://github.com/medusajs/medusa/commit/f6736d96616aaff51399b2733905f9e340efc8be), [`acf6bbc2ec1d90e3b0100c86f56e96b38fa7c67a`](https://github.com/medusajs/medusa/commit/acf6bbc2ec1d90e3b0100c86f56e96b38fa7c67a), [`1bdf602f1c1da181e2839858d2f7e8aea503573a`](https://github.com/medusajs/medusa/commit/1bdf602f1c1da181e2839858d2f7e8aea503573a), [`75320e744f680afba06d8ad852f169242736fb19`](https://github.com/medusajs/medusa/commit/75320e744f680afba06d8ad852f169242736fb19), [`6e66e36d0814a524440c05a99c849c3d62e48ed3`](https://github.com/medusajs/medusa/commit/6e66e36d0814a524440c05a99c849c3d62e48ed3), [`9766570827ebf50d49d8daf956deecce6666a8cc`](https://github.com/medusajs/medusa/commit/9766570827ebf50d49d8daf956deecce6666a8cc), [`b1cba9fdeba901c9d4c7bddd414ed2fd085fa7b0`](https://github.com/medusajs/medusa/commit/b1cba9fdeba901c9d4c7bddd414ed2fd085fa7b0)]:
+  - @medusajs/core-flows@2.9.0
+  - @medusajs/pricing@2.9.0
+  - @medusajs/index@2.9.0
+  - @medusajs/link-modules@2.9.0
+  - @medusajs/promotion@2.9.0
+  - @medusajs/cart@2.9.0
+  - @medusajs/workflow-engine-inmemory@2.9.0
+  - @medusajs/framework@2.9.0
+  - @medusajs/admin-bundler@2.9.0
+  - @medusajs/analytics@2.9.0
+  - @medusajs/api-key@2.9.0
+  - @medusajs/auth@2.9.0
+  - @medusajs/cache-inmemory@2.9.0
+  - @medusajs/cache-redis@2.9.0
+  - @medusajs/currency@2.9.0
+  - @medusajs/customer@2.9.0
+  - @medusajs/event-bus-local@2.9.0
+  - @medusajs/event-bus-redis@2.9.0
+  - @medusajs/file@2.9.0
+  - @medusajs/fulfillment@2.9.0
+  - @medusajs/inventory@2.9.0
+  - @medusajs/locking@2.9.0
+  - @medusajs/notification@2.9.0
+  - @medusajs/order@2.9.0
+  - @medusajs/payment@2.9.0
+  - @medusajs/product@2.9.0
+  - @medusajs/analytics-local@2.9.0
+  - @medusajs/analytics-posthog@2.9.0
+  - @medusajs/auth-emailpass@2.9.0
+  - @medusajs/auth-github@2.9.0
+  - @medusajs/auth-google@2.9.0
+  - @medusajs/file-local@2.9.0
+  - @medusajs/file-s3@2.9.0
+  - @medusajs/fulfillment-manual@2.9.0
+  - @medusajs/locking-postgres@2.9.0
+  - @medusajs/locking-redis@2.9.0
+  - @medusajs/notification-local@2.9.0
+  - @medusajs/notification-sendgrid@2.9.0
+  - @medusajs/payment-stripe@2.9.0
+  - @medusajs/region@2.9.0
+  - @medusajs/sales-channel@2.9.0
+  - @medusajs/stock-location@2.9.0
+  - @medusajs/store@2.9.0
+  - @medusajs/tax@2.9.0
+  - @medusajs/user@2.9.0
+  - @medusajs/workflow-engine-redis@2.9.0
+  - @medusajs/telemetry@2.9.0
+
 ## 2.8.8
 
 ### Patch Changes
